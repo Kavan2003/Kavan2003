@@ -1,63 +1,50 @@
-# Kavan Thosani
+<h1 align="left">Hey 👋 What's up?</h1>
 
-**Passionate mobile developer skilled in Flutter and Android, crafting elegant cross-platform apps with flawless functionality and intuitive UI/UX.** I enjoy transforming ideas into thriving social media and interactive learning apps, fostering user engagement and growth. My agile approach ensures high-quality code and fast delivery.
+###
 
-**Contact:**
+<p align="left">My name is Kavan and I'm a Mobile Developer, from India</p>
 
-* Email: kavanthosani2003@gmail.com
-* LinkedIn: [Kavan Thosani](https://www.linkedin.com/in/kavan-thosani/)
-* GitHub: [kavan2003](https://github.com/kavan2003)
+###
 
-**Location:** Rajkot, Gujarat, India
+<h2 align="left">About me</h2>
 
-**Skills:**
+###
 
-* **Programming:** Flutter, Dart, Java, Kotlin, Android Development, SQL, HTML/CSS/Js, React.js, Express.js, MongoDB
-* **Version Control:** Git
-* **Project Management:** Agile methodologies
-* **Soft Skills:** Communication, Teamwork, Problem-solving, Time management
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Native Android<br>🎯 Goals: Building Apps that Solve Real Problems</p>
 
-**Programming Practice:**
+###
 
-* **Android - Java, XML:** Collection of DSA coding problems on GitHub ([link to repository])
+<h2 align="left">I code with</h2>
 
-**Projects:**
+###
 
-* **Android - Kotlin, Jetpack Compose, Firebase:** A place for auctions ([link to repository])
-    * Description: Online Auction System
-* **Flutter Application:** Google browser clone using Google Search Engine ([link to repository])
-* **Flutter Application:** Automatic image cropping with Google ML Kit ([link to repository])
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
+</div>
 
-**Internships:**
+###
 
-* **Software Intern:** Sophy e-Technologies Pvt. Ltd (July 2023 - Present)
-    * Developed UI and integrated it with APIs using MVVM architecture.
-* **Flutter Internship:** Payvoy India Private Limited (May 2023 - July 2023)
-    * Contributed to building the UI for slingNeo (Fintech app), ensuring an intuitive and secure user experience.
+<div align="left">
+  <a href="https://www.linkedin.com/in/kavanthosani/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/ThosaniKavan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
-**Education:**
-
-* **Bachelor of Technology (BTech), App Development Lead - GDSC:** Marwadi University (2021-2025)
-    * CGPA: 8.12
-    * Event speaker: Introduction to Android Development and Flutter
-
-**Extracurricular Activities:**
-
-* Authored "Flutter & Dart - The Complete Guide [2023 Edition]"
-
-**Additional Information:**
-
-* Personal: Add a brief and engaging bio about yourself, your interests, and what sets you apart as a developer.
-* Badges: Use badges to showcase your accomplishments, skills, and project contributions.
-* Stats: Consider adding dynamic badges highlighting your GitHub stats (e.g., contributions, top languages).
-* Portfolio: Showcase your projects with well-structured descriptions, screenshots, and links.
-* Awards: Share any awards or recognitions you've received.
-* Social media: Include links to your social media profiles (optional).
-
-**Remember:**
-
-* Update your README regularly to reflect your latest achievements and skills.
-* Tailor your README to your target audience and potential opportunities.
-* Use visuals strategically to make your profile more engaging.
-
-I hope this enhanced code provides a valuable starting point for your GitHub profile README.md!
+###
