@@ -48,3 +48,23 @@
 </div>
 
 ###
+
+<div align="center">
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavan2003&layout=compact&theme=radical)
+
+<b>Note</b>: *Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
+
+## Statistics
+
+![Kunjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavan2003&show_icons=true&theme=radical)
+
+## Commit Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kavan2003&tshow_icons=true&theme=radical)
+     
+</div>
+
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavan2003&bg_color=000000&color=ffffff&line=0164e4&point=8500db)
