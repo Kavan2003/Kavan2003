@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/kavanthosani"><img src="https://api.daily.dev/devcards/v2/8gci701OHl60RSohkOyOi.png?type=default&r=6gl" width="356" alt="kavan Thosani's Dev Card"/></a>
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
