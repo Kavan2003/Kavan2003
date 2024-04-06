@@ -12,14 +12,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Native Android<br>🎯 Goals: Building Apps that Solve Real Problems</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
