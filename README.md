@@ -24,13 +24,11 @@ I'm a Computer Science student and full-stack developer passionate about buildin
 ## 🚀 Featured Projects
 
 ### CourseHelp - AI-Powered Multilingual Content Generation
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=GitHub)](https://github.com/kavanthosani/CourseHelp)
 - **Google GenAI Hackathon - Top 5 Finalist**
 - Complex application integrating multiple APIs for multilingual content generation
 - Cross-platform solution with cutting-edge AI technology
 
 ### Chat Application - Full-Stack Messaging Platform
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=GitHub)](https://github.com/kavanthosani/chat-application)
 - Comprehensive platform using Flutter, Express.js, MongoDB, and Socket.IO
 - Features include fuzzy search and real-time messaging
 - End-to-end solution design and implementation
